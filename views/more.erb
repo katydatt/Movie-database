@@ -1,0 +1,11 @@
+
+
+  <% @more.each do |movie| %>
+<ul class='a'>
+
+<li>
+<a href='/about?movie=<%= movie["Title"] %>'> <%= movie['Title'] %></a> </li>
+<br>
+</ul>
+
+<% end %>

@@ -1,0 +1,125 @@
+* {
+  font-family: Verdana;
+  box-sizing: border-box;
+}
+
+body{
+  border-top: 2px solid orange;
+  background-color: #D3D3D3;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 36px;
+  font-family: 'Covered By Your Grace', cursive;
+}
+
+label {
+  margin-left: 250px;
+}
+
+form {
+  margin-bottom: 200px;
+  margin-left: 200px;
+}
+
+.index {
+
+  margin-top: 100px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+#poster{
+  height: 400px;
+  width: 300px;
+  float: left;
+  margin-right: 50px;
+  margin-left: 300px;
+}
+#index {
+  width: 150px;
+  height: 150px;
+  margin-left: 500px;
+  margin-bottom: 30px;
+}
+
+input {
+  height: 30px;
+  width: 250px;
+  border-radius: 18px;
+  font-size: 18px;
+  padding-left: 7px;
+}
+
+button {
+  margin-left: 10px;
+  height: 27px;
+  width: 50px;
+  border-radius: 18px;
+}
+
+span {
+  font-weight: bold;
+  text-decoration: underline;
+}
+.top {
+  line-height: 0px;
+  text-align: center;
+  margin-bottom: 50px;
+}
+.container {
+  text-align: center;
+  width: 90%;
+}
+.image{
+  display: inline-block;
+  width: 40%;
+}
+.sidebar {
+  display: inline-block;
+  vertical-align: top;
+  width: 50%;
+}
+
+#title {
+  margin-top: 50px;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+#year {
+  font-size: 20px;
+}
+button .save {
+  width: 70px;
+  height: 35px;
+}
+
+.a {
+margin-top: 50px;
+margin-left: 400px;
+line-height: 0px;
+
+}
+ul{
+  margin-top: 60px;
+  line-height: 30px;
+  text-align: left;
+}
+
+li{
+  list-style: none;
+
+}
+
+li :link{
+  color: #FF8C00;
+    list-style: none;
+}
+
+li :visited {
+  color: white;
+}
+
